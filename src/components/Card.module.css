@@ -1,0 +1,62 @@
+.card {
+  width: 600px;
+  height: 100%;
+  margin: auto;
+  text-align: center;
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px 0px rgba(0, 0, 0, 0.25);
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.card h2 {
+  margin-top: 10px;
+  font-size: 25px;
+  font-weight: 100;
+  color: #333;
+}
+
+.card h4 {
+  margin-bottom: 15px;
+  color: rgb(28, 112, 230);
+  font-size: 18px;
+}
+
+.card p {
+  text-align: center;
+  width: 580px;
+  margin: auto;
+  font-size: 18px;
+  color: #777;
+  margin-bottom: 15px;
+}
+
+.btnDivBack,
+.btnDivForward
+{
+  margin: 0 20px;
+  font-size: 16px;
+  border: none;
+  background: rgba(28, 112, 230, 0.7);
+  color: white;
+  padding: 4px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 16px;
+  border: none;
+  background: rgba(28, 112, 230, 0.7);
+  color: white;
+  padding: 4px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
